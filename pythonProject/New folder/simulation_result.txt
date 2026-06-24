@@ -1,0 +1,35 @@
+=== random strategy ===
+Trials: 5000
+Success: 4076
+Failure: 924
+Success Rate: 0.8152
+Failure Rate: 0.1848
+Avg Guess (successes only): 4.7063
+Avg candidate count by round:
+  Round 1: 14855.00
+  Round 2: 1416.43
+  Round 3: 138.45
+  Round 4: 21.87
+  Round 5: 7.42
+  Round 6: 4.44
+
+=== high_score strategy ===
+Trials: 5000
+Success: 4367
+Failure: 633
+Success Rate: 0.8734
+Failure Rate: 0.1266
+Avg Guess (successes only): 4.3733
+Avg candidate count by round:
+  Round 1: 14855.00
+  Round 2: 362.24
+  Round 3: 31.89
+  Round 4: 7.28
+  Round 5: 4.15
+  Round 6: 3.43
+
+=== Summary ===
+Metric                        Random         High Score     
+Success Rate                  0.8152         0.8734         
+Failure Rate                  0.1848         0.1266         
+Avg Guess (success only)      4.7063         4.3733    
