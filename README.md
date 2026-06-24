@@ -1,8 +1,8 @@
-## Setup & Run
+Setup & Run
    ```bash
    chmod +x run.sh
    ```
-3. Run it:
+Run it:
 
    ```bash
    ./run.sh
